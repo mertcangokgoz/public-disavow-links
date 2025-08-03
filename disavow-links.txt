@@ -1,5 +1,6 @@
 domain:0-0.fr
 domain:000free.us
+domain:007agent-i.fr
 domain:007angels.com
 domain:00author.com
 domain:00go.com
@@ -21,6 +22,7 @@ domain:0daymusic.org
 domain:0lovespells0.blogspot.com
 domain:0n-line.tv
 domain:0xf61.gitlab.io
+domain:1-88.vip
 domain:1-99seo.com
 domain:1-best-seo.com
 domain:1-free-share-buttons.com
@@ -77,6 +79,7 @@ domain:157.245.224.202
 domain:15navi.com
 domain:16-reasons-for-seo.com
 domain:1688.com
+domain:16lv.com
 domain:17-reasons-for-seo.com
 domain:176quan.com
 domain:178evakuator178.ru
@@ -321,6 +324,7 @@ domain:7yue.org
 domain:7zap.com
 domain:8-best-seo.com
 domain:83net.jp
+domain:84lv.com
 domain:8558l.jobs.net
 domain:8641001.net
 domain:88.ernorvious.com
@@ -396,6 +400,8 @@ domain:aasbc.com
 domain:aasoldes.fr
 domain:ab-search.com
 domain:ab-shop.ch
+domain:abacoasale.xyz
+domain:abaiak.com
 domain:abbanreddy.com
 domain:abc-iwaki.com
 domain:abc.xyz
@@ -628,6 +634,7 @@ domain:adventureparkcostarica.com
 domain:adventurework.co.uk
 domain:adverster.com
 domain:advertex.info
+domain:advertisefree.co.uk
 domain:advertisingtag.net
 domain:adviceforum.info
 domain:advisornext.wmtransfer.com
@@ -681,6 +688,7 @@ domain:africanclips.com
 domain:africapulse.com
 domain:afrikmonde.com
 domain:afrobookstv.com
+domain:afshan.shop
 domain:afslankpillen2017nl.eu
 domain:ag-co.com
 domain:agaclar.net
@@ -720,6 +728,7 @@ domain:agvend.com
 domain:agysya.ru
 domain:ah.do4a.me
 domain:ahb.is
+domain:ahecmarket.xyz
 domain:ahewar.org
 domain:ahhjf.com
 domain:ahmedabadwebs.com
@@ -733,6 +742,7 @@ domain:aidarmebel.kz
 domain:aihelen.net
 domain:aileenciel.jp
 domain:aimayangzhi.com
+domain:aimeesblog.xyz
 domain:aimiot.net
 domain:aiobooking.it
 domain:air-dive.com
@@ -758,6 +768,7 @@ domain:akid.s17.xrea.com
 domain:akina.com.vn
 domain:akita.kz
 domain:akitanet.jp
+domain:akmussale.xyz
 domain:aksonural.ru
 domain:aktiv-chat.ru
 domain:aktivator-windows10.blogspot.com
@@ -792,6 +803,7 @@ domain:alert-fjg.xyz
 domain:alert-hgd.xyz
 domain:alert-jdh.xyz
 domain:alert.scansafe.net
+domain:alertomall.xyz
 domain:alesis.com
 domain:alessandraleone.com
 domain:alestube.com
@@ -817,6 +829,7 @@ domain:algerianembassy.co.in
 domain:algoldeng.com
 domain:algoworks.co.uk
 domain:algsoft.ru
+domain:alguiblog.online
 domain:alibestsale.com
 domain:alice.it
 domain:alief-indopakrestaurant.com
@@ -828,6 +841,7 @@ domain:aliexsale.ru
 domain:alif-ba-ta.com
 domain:alinabaniecka.pl
 domain:alive-ua.com
+domain:aliviahome.online
 domain:alizevids.com
 domain:alkanfarma.org
 domain:alkoncorp.com
@@ -974,6 +988,7 @@ domain:amateurmatch.com
 domain:amateurs-gone-wild.com
 domain:amateurslovesporn.com
 domain:amateurspankingboys.com
+domain:amatocanizalez.net
 domain:amazingninja.com
 domain:amazingpic.net
 domain:amazingseolinks.com
@@ -1123,6 +1138,7 @@ domain:anorexicnudes.net
 domain:anorexicporn.net
 domain:anorexicpornmovies.com
 domain:anorexicsex.net
+domain:anrtmall.xyz
 domain:ansinkoumuten.net
 domain:anson.com.tw
 domain:anti-crisis-seo.com
@@ -1150,6 +1166,7 @@ domain:aocassia.com
 domain:aontasnascribhneoiri.ie
 domain:aosexkontakte.net
 domain:aosheng-tech.com
+domain:aoul.top
 domain:aozhuanyun.com
 domain:ap.do4a.me
 domain:ap.senai.br
@@ -1183,6 +1200,7 @@ domain:apidigidocketnet-a.akamaihd.net
 domain:apifasterlightin-a.akamaihd.net
 domain:apiholdingmypage-a.akamaihd.net
 domain:apiitsthirteende-a.akamaihd.net
+domain:apilian.xyz
 domain:apilinkswiftco-a.akamaihd.net
 domain:apiluckyleapnet-a.akamaihd.net
 domain:apimegabrowsebiz-a.akamaihd.net
@@ -1270,6 +1288,7 @@ domain:arboristreportsaustralia.com.au
 domain:arcadepages.com
 domain:arcadeplayhouse.com
 domain:arcadepod.com
+domain:arcarticle.online
 domain:archi.fr
 domain:architecturebest.com
 domain:architettorossi.com
@@ -1302,6 +1321,7 @@ domain:aritc.yru.ac.th
 domain:arius.tech
 domain:ark-web.jp
 domain:arkadian.vg
+domain:arkansale.xyz
 domain:arkartex.ru
 domain:arkkivoltti.net
 domain:armortgages.com.au
@@ -1309,6 +1329,7 @@ domain:armoryonpark.org
 domain:arndt-am-abend.de
 domain:aroeats.net
 domain:aroeleven.com.br
+domain:arpe.top
 domain:arpelsreplica.xyz
 domain:arquapetrarca.info
 domain:arquivo.pt
@@ -1341,6 +1362,7 @@ domain:artpaint-market.ru
 domain:artparquet.ru
 domain:artpicso.com
 domain:artpress.top
+domain:artsmarket.xyz
 domain:arturs.moscow
 domain:artwinlive.com
 domain:aruplighting.com
@@ -1356,6 +1378,7 @@ domain:asai-kota.com
 domain:asanonline.webnetmobilesites.com
 domain:asbestosfife.co.uk
 domain:ascat.porn
+domain:ascotgoods.xyz
 domain:asdfg.pro
 domain:asdfz.pro
 domain:asdnnene.xyz
@@ -1415,6 +1438,7 @@ domain:asupro.com
 domain:asylornek.kz
 domain:asylumtorch.best
 domain:asynt.net
+domain:aszokshop.xyz
 domain:at.do4a.me
 domain:atari.org
 domain:atchs.jp
@@ -1433,6 +1457,7 @@ domain:atleticpharm.org
 domain:atley.eu.pn
 domain:atmagroup.ru
 domain:atmovs.com
+domain:atoblog.online
 domain:atofilms.com
 domain:atomcraft.ru
 domain:atout-energie-69.com
@@ -1446,6 +1471,7 @@ domain:au-health.ru
 domain:au.do4a.me
 domain:auburnapartmentguide.com
 domain:aucklandactors.co.nz
+domain:aucoinhomes.com
 domain:auctions.nhl.com
 domain:audiobangout.com
 domain:audiofree.ru
@@ -1607,6 +1633,7 @@ domain:ayanaspa.com
 domain:ayeartoforget.com
 domain:ayerbo.xhost.ro
 domain:ayodhya.co
+domain:ayongoods.xyz
 domain:ayudadomiciliocastro.es
 domain:azadnegar.com
 domain:azartclub.org
@@ -1653,6 +1680,7 @@ domain:babs.com.ua
 domain:baby22.com.tw
 domain:babyfactory.fr
 domain:babyguns.ru
+domain:baciakte.online
 domain:back.dog
 domain:backbonebanners.com
 domain:backgroundpictures.net
@@ -1893,6 +1921,7 @@ domain:berglion.com
 domain:bergnews.com
 domain:beritasulut.co.id
 domain:berkayyildiz.com
+domain:berkinan.xyz
 domain:berlininsl.com
 domain:bernadettezorina.ru
 domain:bernd-dietrich.ch
@@ -1946,6 +1975,7 @@ domain:bestellungpotenzbestellung24.xyz
 domain:bestempresas.es
 domain:bestfortraders.com
 domain:besthandjobporn.com
+domain:besthatcheries.com
 domain:besthomemadepornsites.com
 domain:besthoro.ru
 domain:besthostingprice.com
@@ -2046,6 +2076,7 @@ domain:bible-freedom.org
 domain:biblepraying.com
 domain:bibliopam.ec-lyon.fr
 domain:biblioteka-en.org.ua
+domain:bibprsale.xyz
 domain:bibys.com
 domain:bidbuy.co.kr
 domain:bidr.trellian.com
@@ -2209,6 +2240,7 @@ domain:blackwhitepleasure.com
 domain:blackwitchcraft.ru
 domain:blagovest-med.ru
 domain:blairevalry.ru
+domain:blancablog.online
 domain:blavia.00author.com
 domain:blawat2015.no-ip.com
 domain:bleabertr709-nifty.xyz
@@ -2275,7 +2307,9 @@ domain:blogideias.com
 domain:blogig.org
 domain:blogking.top
 domain:bloglag.com
+domain:blognet.top
 domain:blogologue.com
+domain:blogorganictraffic.shop
 domain:blogos.kz
 domain:blogping.xyz
 domain:blogporn.in
@@ -2294,6 +2328,7 @@ domain:blogsfunky672.weebly.com
 domain:blogstar.fun
 domain:blogster.com
 domain:blogtotal.de
+domain:blogtraffic.shop
 domain:blogua.org
 domain:blogwasabi.com
 domain:bloke.com
@@ -2318,6 +2353,7 @@ domain:bluraycollections.co.uk
 domain:blurious.com
 domain:bly.com
 domain:bmsco.co
+domain:bmusshop.xyz
 domain:bmw-ark.ru
 domain:bmw.afora.ru
 domain:bmwhighperformers.com
@@ -2371,6 +2407,7 @@ domain:bonkers.name
 domain:bonkor.org
 domain:bonky.biz
 domain:bonn-paartherapie.de
+domain:bonniesblog.online
 domain:bonnustimee.xyz
 domain:bonus-betting.ru
 domain:bonus-spasibo-sberbank.ru
@@ -2425,6 +2462,7 @@ domain:bosefux.esy.es
 domain:bosman.pluto.ro
 domain:bostitch.co.uk
 domain:bostitch.eu
+domain:bostonline.xyz
 domain:bostonpocketpc.com
 domain:bot-traffic.icu
 domain:bot-traffic.xyz
@@ -2471,6 +2509,7 @@ domain:bouncelinks.com
 domain:bouwteamp-o.be
 domain:bovaalpaca.com
 domain:bovec.net
+domain:bowigosale.xyz
 domain:boxall.net
 domain:boxingforum24.com
 domain:boysfashion.website
@@ -2550,6 +2589,7 @@ domain:bristolhotel.com
 domain:bristolhotel.com.ua
 domain:british-car-auctions.com
 domain:british-girls.com
+domain:britneyblog.online
 domain:brivium.com
 domain:brk-rti.ru
 domain:bro-bra.jp
@@ -2956,6 +2996,7 @@ domain:cattleusa.com
 domain:cattyhealth.com
 domain:catya.co.uk
 domain:caulderwoodkennels.com
+domain:cauxmall.xyz
 domain:caveavins.fr
 domain:cavehand.monster
 domain:cavethrow.best
@@ -3095,6 +3136,7 @@ domain:chatbottle.co
 domain:chatbottraffic.com
 domain:chaterz.nl
 domain:chathamkitchenrenovations.com
+domain:chatmall.xyz
 domain:chatnoir.eu
 domain:chatrazvrat.ru
 domain:chatroulette.life
@@ -3200,6 +3242,7 @@ domain:chocolateslim-u-srbiji.com
 domain:chocoslim.pro
 domain:choice-credit.ru
 domain:choinny.casa
+domain:chomexun.com
 domain:chongyushuili.com
 domain:chonp.top
 domain:chooseaamateur.com
@@ -3241,6 +3284,7 @@ domain:cialisndbrx.com
 domain:cialisovercounteratwalmartusa.com
 domain:cialisqaz.comw.todolistsoft.com
 domain:cialiswithoutadoctor.net
+domain:ciarustde.online
 domain:cibpenonptib.flu.cc
 domain:cicaki.net
 domain:ciceros.co
@@ -3252,6 +3296,7 @@ domain:cies.xrea.jp
 domain:cigarpass.com
 domain:ciglik.net
 domain:ciguawatch.ilm.pf
+domain:cilolamall.xyz
 domain:cim.bg
 domain:cindymatches.com
 domain:cine.astalaweb.net
@@ -3388,9 +3433,11 @@ domain:cmbe-console.worldoftanks.com
 domain:cmd.kz
 domain:cmhomestayagency.com
 domain:cmil.com
+domain:cmrrsale.xyz
 domain:cms.mobidaze.com
 domain:cms.sivarnet.it
 domain:cms.sive.it
+domain:cmseshop.xyz
 domain:cmvic.org.au
 domain:cnainterpreta.it
 domain:cniagara.ca
@@ -3533,6 +3580,7 @@ domain:computer-remont.ru
 domain:computernetworksonline.com
 domain:comsysnet.com
 domain:comuneduecarrare.it
+domain:comuneshop.xyz
 domain:comunic-arte.com
 domain:comunio.com
 domain:conakos.com
@@ -3672,6 +3720,7 @@ domain:couponsale.in
 domain:courtneyds.com.au
 domain:courtshipgift.com
 domain:covadhosting.biz
+domain:covblog.top
 domain:coverage-my.com
 domain:covertestnap.icu
 domain:covetnica.com
@@ -3687,6 +3736,7 @@ domain:cp24.com.ua
 domain:cpa-kiel.de
 domain:cpabegins.ru
 domain:cpajunkies.com
+domain:cpnbshop.xyz
 domain:cpub.com.br
 domain:crackguru.tk
 domain:cracking.com.ar
@@ -3856,6 +3906,7 @@ domain:cutmeyriskatrisyacc.blogspot.com
 domain:cv.wallhade.co
 domain:cvety24.by
 domain:cvnews.cv.ua
+domain:cvta.xyz
 domain:cwaf.jp
 domain:cwcab.com
 domain:cwetochki.ru
@@ -3877,6 +3928,7 @@ domain:cytoday.eu
 domain:cz.products.erstegroup.com
 domain:cz5.clickzzs.nl
 domain:czat.wp.pl
+domain:czcedu.com
 domain:czeshop.info
 domain:cztt.ru
 domain:d-black.bz
@@ -3913,6 +3965,7 @@ domain:dafatiri.com
 domain:dagleshoz.e-dag.ru
 domain:daidai.gamedb.info
 domain:dailybigsales.com
+domain:dailyblog.xyz
 domain:dailyfinancefix.com
 domain:dailyrank.net
 domain:dailyseo.xyz
@@ -3937,6 +3990,7 @@ domain:danceuniverse.ru
 domain:dandiyabeats.in
 domain:daneshetabiat.com
 domain:dangphoto.trade
+domain:danhale.xyz
 domain:danhsachnhacai.net
 domain:danielco.net
 domain:daniellasilver.com
@@ -3991,6 +4045,7 @@ domain:davebestdeals.com
 domain:davesofthunder.com
 domain:davidovic.info
 domain:davidpawson.org
+domain:davilaonline.shop
 domain:davismarina.com.au
 domain:dawgshed.com
 domain:dawlenie.com
@@ -4147,6 +4202,7 @@ domain:detalizaciya-tut.biz
 domain:detective01.ru
 domain:detki-opt.ru
 domain:detmebel.su
+domain:detoolzon.xyz
 domain:detoxmed24.ru
 domain:detskie-konstruktory.ru
 domain:detskie-zabavi.ru
@@ -4176,11 +4232,13 @@ domain:devopssummit.com
 domain:devot-ee.com
 domain:dexel.co.uk
 domain:deypenburgschecourant.nl
+domain:dezeypmall.xyz
 domain:dfbannouncer.deluxeforbusiness.com
 domain:dfiles.me
 domain:dfsfsdfwefwe.com
 domain:dfwu1013.info
 domain:dfwu1019.info
+domain:dgdsoutlet.xyz
 domain:dgfitness.co
 domain:dgmapi.com
 domain:dhdnewdrone.bar
@@ -4205,6 +4263,7 @@ domain:die-matheseite.de
 domain:diebesten.co
 domain:diegolopezcastan.com
 domain:dienai.ru
+domain:dienmaytot.xyz
 domain:dierenmarkt.eu
 domain:diesel-parts28.ru
 domain:dieselservicesas.it
@@ -4318,6 +4377,7 @@ domain:dkt.co.at
 domain:dktr.ru
 domain:dkvorota.ru
 domain:dl.qerope.ir
+domain:dldsshop.xyz
 domain:dlibrary.mediu.edu.my
 domain:dloeciusnio981-biglobe.xyz
 domain:dlya-android.org
@@ -4347,6 +4407,7 @@ domain:docsarchive.net
 domain:docsportal.net
 domain:docstoc.com
 domain:doctissimo.fr
+domain:doctmalls.xyz
 domain:doctor-navi.com
 domain:doctormakarova.ru
 domain:doctornadezhda.ru
@@ -4707,6 +4768,7 @@ domain:edm.hpec.co.kr
 domain:edmed-sonline.com
 domain:edmnetwork.com
 domain:edmullen.net
+domain:ednetstore.xyz
 domain:ednorxmed.com
 domain:edshopping.net
 domain:edu-apps.org
@@ -4775,6 +4837,7 @@ domain:ektech.no
 domain:ekto.ee
 domain:el-nation.com
 domain:elainachannel.blogspot.com
+domain:elainasblog.xyz
 domain:elaschulte.de
 domain:elccareers.co.nz
 domain:eldiariodeguadalajara.com
@@ -4875,6 +4938,7 @@ domain:emctestlab.ru
 domain:emediate.eu
 domain:emergencyneeds.org
 domain:emerson-rus.ru
+domain:emicef.com
 domain:emilysbeauty.com
 domain:emiratesauction.com
 domain:emktg.cihi.ca
@@ -4902,6 +4966,7 @@ domain:en.conprofetech.com
 domain:en.home-task.com
 domain:enbersoft.com
 domain:enbilgi.ir
+domain:encmbtia.online
 domain:encodable.com
 domain:encourgeinc.co
 domain:encre-et-verre.com
@@ -4948,6 +5013,7 @@ domain:envaseslotusama.com
 domain:envios.uces.edu.ar
 domain:envirodesic.com
 domain:environnement.wallonie.be
+domain:envistore.xyz
 domain:eonpal.com
 domain:eorogo.top
 domain:eoroto.com
@@ -4975,12 +5041,15 @@ domain:ereality.ru
 domain:erectile.bid
 domain:eredijovon.com
 domain:ereko.ru
+domain:erias.xyz
 domain:eric-artem.com
 domain:ericbaber.com
 domain:ericmijnster.nl
+domain:ericshome.store
 domain:erictracylove.blogspot.com
 domain:eridan.websrvcs.com
 domain:erikvanderweijden.nl
+domain:erinhome.xyz
 domain:eriuosee.casa
 domain:erkekleroneriyor.com
 domain:ermis.gov.gr
@@ -5042,6 +5111,7 @@ domain:essay-writing.work
 domain:essayassist.com
 domain:essaypro.com
 domain:essayservicewriting.org
+domain:essaytags.com
 domain:essencemusicagency.com
 domain:essenmitfreude.de
 domain:essntialbusinessfinancingsnow.com
@@ -5069,6 +5139,7 @@ domain:etis.ford.com
 domain:etm-consult.de
 domain:etotupo.ru
 domain:ets-2-mod.ru
+domain:etsfshop.xyz
 domain:etss.net
 domain:etuber.com
 domain:etur.ru
@@ -5120,6 +5191,7 @@ domain:evocolarry.monster
 domain:evogarage.com
 domain:evokingminds.com
 domain:evosoluzioni.com
+domain:evreuxshop.xyz
 domain:evrotekhservis.ru
 domain:ewebarticle.info
 domain:ewin.biz
@@ -5138,6 +5210,7 @@ domain:exclusivehouseholdstaff.com
 domain:excluzive.net
 domain:exct.net
 domain:exdocsfiles.com
+domain:execedmall.xyz
 domain:executehosting.com
 domain:executiveexpress.biz
 domain:exhibitionplus.eu
@@ -5349,6 +5422,7 @@ domain:feeriaclub.ru
 domain:feetbastinadoboys.com
 domain:fefo.gdn
 domain:feg-jena.de
+domain:feiacmr.shop
 domain:feiowk.cam
 domain:felicitihuor.xyz
 domain:felizporno.com
@@ -5396,6 +5470,7 @@ domain:fieldend-jun.hillingdon.sch.uk
 domain:fierrohack.ru
 domain:fifa-coins.online
 domain:fifakorea.net
+domain:figensahin.com
 domain:fightwns.org
 domain:figuringmoneyout.com
 domain:fikasound.tk
@@ -5462,6 +5537,7 @@ domain:findpics.pw
 domain:findpik.com
 domain:findsexguide.com
 domain:findthe.pet
+domain:fineblog.top
 domain:finehairypussy.com
 domain:finejewelryshop.ru
 domain:finemanteam.com
@@ -5479,6 +5555,7 @@ domain:firesub.pl
 domain:firma-legion.ru
 domain:firma.hr
 domain:firmfolder.info
+domain:firmgeo.xyz
 domain:first-view.com
 domain:firstbaptistloeb.org
 domain:firstblog.top
@@ -5898,6 +5975,7 @@ domain:futbolkisales.ru
 domain:futoko.info
 domain:futureisus.com
 domain:fuzokubk.com
+domain:fvetgoods.xyz
 domain:fvhdpc.com
 domain:fx-brokers-review.com
 domain:fxf.cside1.jp
@@ -5982,6 +6060,7 @@ domain:gammatraffic.com
 domain:gamway.com.hk
 domain:gandikapper.ru
 domain:gangstagayvideos.com
+domain:gaokr.xyz
 domain:gap-search.com
 domain:gar86.tmweb.ru
 domain:garagebiz.ru
@@ -6042,6 +6121,7 @@ domain:gboxguy.com
 domain:gcah.org
 domain:gcar.net
 domain:gclub8.vip
+domain:gcmx.net
 domain:gcup.ru
 domain:gdcentre.ru
 domain:gdebestkupit.ru
@@ -6271,6 +6351,7 @@ domain:glenabbey-encorehomes.ca
 domain:glenirisvethospital.com.au
 domain:glicol.kz
 domain:glidemasterindia.com
+domain:glktfw.net
 domain:global-autonews.com
 domain:global-flat.com
 domain:global-ics.co.za
@@ -6371,6 +6452,7 @@ domain:goldenkorea.ru
 domain:goldfishlegs.ca
 domain:goldnsleep.bar
 domain:goldpanningtools.com
+domain:goldvaultmetals.com
 domain:golfpark.jp
 domain:golfresa.lucania.se
 domain:golfy.jp
@@ -6388,6 +6470,7 @@ domain:good-mummy.ru
 domain:good-potolok.ru
 domain:goodbusinesscomm.com
 domain:goodbyecellulite.ru
+domain:goodcoffeepremium.com
 domain:goodhousekeeping.com
 domain:goodhumor24.com
 domain:goodly.pro
@@ -6447,10 +6530,12 @@ domain:gov.yanao.ru
 domain:govtexams.in
 domain:gowreckdiving.com
 domain:gox.com.ua
+domain:goyua.xyz
 domain:gp777.net
 domain:gpirate.com
 domain:gpms.org.my
 domain:gq-catalog.gq
+domain:graceonline.shop
 domain:grafaman.ru
 domain:grancanariamodacalida.es
 domain:grand-chlen.ru
@@ -6552,6 +6637,7 @@ domain:gta.ru
 domain:gtb-hd.de
 domain:gtopstats.com
 domain:gtss.ru
+domain:gttpsale.xyz
 domain:guallocce.com
 domain:guardlink.com
 domain:guardlink.org
@@ -6604,6 +6690,7 @@ domain:gwagka.com
 domain:gwebtools.com
 domain:gwebtools.com.br
 domain:gwhwpxbw.bloger.index.hr
+domain:gxcb.net
 domain:gyffu.com
 domain:gymfan.com
 domain:gymi.name
@@ -6629,6 +6716,7 @@ domain:hacktrickconf.com
 domain:hadraajans.com
 domain:haedongacademy.org
 domain:hafez-li.ir
+domain:hagirkblog.space
 domain:hahanoshizuku.jp
 domain:hahashka.ru
 domain:haikuware.com
@@ -6662,6 +6750,7 @@ domain:hammer.x0.to
 domain:hamov.com
 domain:hamptonoaks.ca
 domain:hampus.biz
+domain:hamyshop.xyz
 domain:hanabijin.jp
 domain:hanamura.shop
 domain:hanbaisokushin.jp
@@ -6698,6 +6787,7 @@ domain:hardcoreasia.net
 domain:hardcoreoffice.com
 domain:hardcorepornmodels.com
 domain:hardiegrant.com
+domain:hardosale.xyz
 domain:hardupdate.com
 domain:hardupdate0.com
 domain:hardupdate01.com
@@ -6728,6 +6818,7 @@ domain:harikyu.in
 domain:harmarena.work
 domain:harmonyglen.us
 domain:haroldmitchellfoundation.com.au
+domain:harpro.net
 domain:harrispizza.com
 domain:harsa.hr
 domain:hartmanngmbh.de
@@ -6821,6 +6912,7 @@ domain:heaven.porn
 domain:hebagh.com
 domain:hebr.myddns-flir.com
 domain:hedgeconnection.com
+domain:heeha.net
 domain:heelsstockings.com
 domain:heena.pw
 domain:helicalpile.us
@@ -6919,8 +7011,10 @@ domain:higupdate27.com
 domain:higupdate28.com
 domain:higupdate29.com
 domain:hikesearch.net
+domain:hilaryblog.top
 domain:hildinghr.se
 domain:hill-accent-withdraw-sentiment.info
+domain:himandmall.xyz
 domain:himazin.info
 domain:himgaws.pw
 domain:himirror.com
@@ -6950,14 +7044,17 @@ domain:hitfront.com
 domain:hitimolsun.com
 domain:hitmuzik.ru
 domain:hitplus.fr
+domain:hitree.shop
 domain:hitsbox.info
 domain:hiwibyh.bugs3.com
+domain:hiwpro.xyz
 domain:hjaoopoa.top
 domain:hjiekwo.cam
 domain:hjn.secure-dbprimary.com
 domain:hkdiiohi.skyrock.com
 domain:hkgbc.org.hk
 domain:hkis.edu.hk
+domain:hkjrsale.xyz
 domain:hkladys.com
 domain:hledejvshopech.cz
 domain:hmi.com.tr
@@ -7200,10 +7297,12 @@ domain:hradycz.cz
 domain:hrc-sudan.sd
 domain:hreade.com
 domain:hrsprings.com
+domain:hrtonline.xyz
 domain:hs-events.nl
 domain:hscsscotland.com
 domain:hseexpert.com
 domain:hseipaa.kz
+domain:hsoutdoor.com
 domain:hspline.com
 domain:hswsolutions.com
 domain:htaccess.net.ru
@@ -7222,6 +7321,7 @@ domain:hud8.vn
 domain:hudsonltd.com
 domain:hudsonvalleytraveler.com
 domain:huftonandcrow.com
+domain:hugblog.xyz
 domain:hugeboobspictures.com
 domain:huhn.altervista.org
 domain:huimin764128.com
@@ -7329,6 +7429,7 @@ domain:i.mobilerz.net
 domain:i4track.net
 domain:iab.com.pk
 domain:iakzxs.com
+domain:ialgramer.shop
 domain:iam.ittot.com
 domain:iambai.ditec.sk
 domain:iamsport.org
@@ -7341,6 +7442,7 @@ domain:ibar.cc
 domain:ibb.com.ua
 domain:ibibook.com
 domain:ibizasoulluxuryvillas.com
+domain:iblogpress.xyz
 domain:ibmdatamanagement.co
 domain:ibmp.ir
 domain:iboss.com
@@ -7386,6 +7488,7 @@ domain:idg-comp.chph.ras.ru
 domain:ido3.com
 domain:idyler.com
 domain:ie.57883.net
+domain:ieeeoutlet.xyz
 domain:iekk123hotupdate.com
 domain:iesjuandopazo.es
 domain:iex.nl
@@ -7555,6 +7658,7 @@ domain:inclk.com
 domain:incolors.club
 domain:income.net.in
 domain:incomekey.net
+domain:incoonline.xyz
 domain:increasewwwtraffic.info
 domain:indaca.com.ve
 domain:independentautoseo.com
@@ -7774,6 +7878,7 @@ domain:iranhack.com
 domain:iranparadise.com
 domain:iranspca.com
 domain:irenealdridge.com
+domain:iridsale.xyz
 domain:irkutsk.online-podarki.com
 domain:irkutsk.zrus.org
 domain:iron-age.info
@@ -7868,6 +7973,7 @@ domain:iyfsearch.com
 domain:izamorfix.ru
 domain:izhevsk.xrus.org
 domain:izhevsk.zrus.org
+domain:izhevskjob.xyz
 domain:izhstrelok.ru
 domain:izi24.ru
 domain:izismile.com
@@ -7880,10 +7986,13 @@ domain:j-times.ru
 domain:j.lix7.net
 domain:j33x.com
 domain:jabimgo.pw
+domain:jabug.xyz
 domain:jacago.com
+domain:jacblog.xyz
 domain:jachta.lt
 domain:jack-hughes.com
 domain:jackedfreaks.com
+domain:jackonline.store
 domain:jackpotchances.com
 domain:jackwolfskinoutlet.online
 domain:jacobberger.com
@@ -7980,6 +8089,7 @@ domain:jewelryandfiligree.com
 domain:jha.or.jp
 domain:jiaruxiaozabo.blogspot.com
 domain:jiffle.com
+domain:jikem.com
 domain:jikoman.info
 domain:jillepille.com
 domain:jimmychoosale.online
@@ -8016,6 +8126,7 @@ domain:joeldelima.com.br
 domain:joelduncombe.com
 domain:joessmogtestonly.com
 domain:johannesburgsingles.co.za
+domain:johnnyhaley.top
 domain:johnrobertsoninc.com
 domain:johnstonlibrary.com
 domain:johnussery.com
@@ -8041,6 +8152,8 @@ domain:journeydownthescale.info
 domain:jovedata.com.br
 domain:jovencitas.gratis
 domain:joy-penguin.com
+domain:joyceblog.top
+domain:joycee.xyz
 domain:joyfullextensionz.com
 domain:joyk.com
 domain:joyrus.com
@@ -8161,6 +8274,7 @@ domain:kaefer-me.com
 domain:kaganuslu.com
 domain:kaidalibor.de
 domain:kaimono-navi.jp
+domain:kaircm.shop
 domain:kaitekigenba-plus.net
 domain:kajol.pw
 domain:kakablog.net
@@ -8225,6 +8339,7 @@ domain:katadhin.co
 domain:katakura.net
 domain:kathmazzella.com
 domain:katjimej.blog.fc2.com
+domain:katrd.xyz
 domain:katrina.co.in
 domain:katushka.net
 domain:katz-stb.de
@@ -8259,6 +8374,7 @@ domain:kelyphos.com
 domain:kemerovo.zrus.org
 domain:kenaba.su
 domain:kenbridgevictoriadispatch.com
+domain:kendrablog.online
 domain:kenkyuukai.jp
 domain:kennel-makalali.de
 domain:kenodowd.com.au
@@ -8267,6 +8383,7 @@ domain:kensautoshop.com
 domain:kentbroom.com
 domain:kentoushi.jp
 domain:kentuckyheadhunters.net
+domain:kenyagoods.xyz
 domain:kenzai-navi.com
 domain:ker-mer.com
 domain:keramikbedarf.ch
@@ -8286,6 +8403,7 @@ domain:kevblog.top
 domain:kevinatech.com
 domain:kevinharvick.com
 domain:kevinsnow.online
+domain:kexihao.xyz
 domain:keyhantercume.com
 domain:keyiflibardaklar.com
 domain:keyopsfoundation.org
@@ -8368,6 +8486,7 @@ domain:kiinomaniak.pl
 domain:kikaku-gogo.site
 domain:kiklo.in
 domain:kikoji.com
+domain:kimblog.top
 domain:kimchiandchips.com
 domain:kimcurlrvsms.com
 domain:kimono-navi.net
@@ -8448,6 +8567,7 @@ domain:klassika.info
 domain:kleine-titten.biz
 domain:klejonka.info
 domain:kletkimehan.ru
+domain:klfd.net
 domain:klh.edu.in
 domain:klikbonus.com
 domain:kliksaya.com
@@ -8496,6 +8616,7 @@ domain:kokubunsai.fujinomiya.biz
 domain:kokuryudo.com
 domain:kol-energo.ru
 domain:kolbaskowo24.pl
+domain:kolcasale.xyz
 domain:koleso24.com.ua
 domain:kolibriexpeditions.com
 domain:kollegierneskontor.dk
@@ -8556,6 +8677,7 @@ domain:kozhakoshek.com
 domain:kozhasobak.com
 domain:kozhniebolezni.com
 domain:kpab.org
+domain:kpcconline.xyz
 domain:kppmconnection.com
 domain:kr.lucklaser.com
 domain:krafte.ru
@@ -8687,6 +8809,7 @@ domain:ladyscn.com
 domain:laexotic.com
 domain:laflorentine.be
 domain:lafourmiliaire.com
+domain:lafppshop.xyz
 domain:lafriore.ru
 domain:lakefield.gloucs.sch.uk
 domain:lakiikraski.ru
@@ -8694,6 +8817,7 @@ domain:lakomka.com.ua
 domain:lakonia-photography.de
 domain:lalalove.ru
 domain:lalita.pw
+domain:lambreshop.xyz
 domain:laminat.com.ua
 domain:lamoas.cam
 domain:lamp-dev.ru
@@ -8827,6 +8951,7 @@ domain:lbaproperties.com
 domain:lbast.ru
 domain:lbcivils.co.uk
 domain:lboprod.be
+domain:lcecshop.xyz
 domain:ldf.org
 domain:ldrtrack.com
 domain:le-clos-des-alouettes.com
@@ -8842,6 +8967,7 @@ domain:learn2playbridge.com
 domain:learningblade.com
 domain:learningglasses.top
 domain:leboard.ru
+domain:lebowmall.xyz
 domain:lecbter-relationships.ga
 domain:lechenie-gemorroya.com
 domain:lechtaczka.net
@@ -8968,6 +9094,7 @@ domain:lig.wpcloud.net
 domain:ligainternational.org
 domain:ligastavok-in.ru
 domain:light.ifmo.ru
+domain:lighthearteds.shop
 domain:lighthouselouisiana.org
 domain:lightinghomes.net
 domain:lignofix.ua
@@ -9093,6 +9220,7 @@ domain:livia-pache.ru
 domain:livingcanarias.com
 domain:livingroomdecor.info
 domain:livingroomdecoratingideas.website
+domain:livingsimply.com
 domain:livingsynergy.com.au
 domain:livingtrustplus.com
 domain:liyinmusic.com
@@ -9214,6 +9342,7 @@ domain:loweryourquote.com
 domain:lowpricesiterx.com
 domain:lozd.com
 domain:lsex.xyz
+domain:lsitenonrepeat.com
 domain:lsounmu.top
 domain:lsp-awak-perikanan.com
 domain:ltvperf.com
@@ -9322,7 +9451,9 @@ domain:macrotek.ru
 domain:mactechinfo.info
 domain:madhuri.pw
 domain:madhuyaskhi.com
+domain:madisonclothingny.com
 domain:madisonmk.agency
+domain:madjonline.xyz
 domain:madot.onlinewebshop.net
 domain:mafa-free.com
 domain:mafcards.ru
@@ -9346,6 +9477,7 @@ domain:magnitogorsk.nasos-pro.ru
 domain:maharashtra.pw
 domain:mahindramojo.com
 domain:mahnwachen-helfen.info
+domain:maigralr.site
 domain:mail.allnews24.in
 domain:mail.bavaria-munchen.com
 domain:mail.chatsite.in
@@ -9381,6 +9513,7 @@ domain:maksimjet.hr
 domain:maladot.com
 domain:malandainballet.com
 domain:malawiexclusive.com
+domain:malbgoods.xyz
 domain:malehotmovies.com
 domain:mall.uk
 domain:mallorca-properties.co.uk
@@ -9392,6 +9525,7 @@ domain:malwareremovalcenter.com
 domain:mamantestavis.com
 domain:mamasuper.prom.ua
 domain:mambasana.ru
+domain:mamidushop.xyz
 domain:mamylik.ru
 domain:manacomputers.com
 domain:managementportal.de
@@ -9408,6 +9542,7 @@ domain:manipulyator-peterburg.ru
 domain:manmarketingresources.com
 domain:mannov.dk
 domain:manoirhovey.com
+domain:manonstore.xyz
 domain:mansiondelrio.co
 domain:mansparskats.com
 domain:mantisonline.info
@@ -9415,6 +9550,7 @@ domain:mantramusic.ru
 domain:manualterap.roleforum.ru
 domain:manuscript.su
 domain:manve.info
+domain:manwang.net
 domain:manyresultshub-a.akamaihd.net
 domain:maofengjx.com
 domain:map.thai-tour.com
@@ -9478,6 +9614,7 @@ domain:margrithbolliger.ch
 domain:mariabeaute.jp
 domain:maridan.com.au
 domain:maridan.com.ua
+domain:marihome.online
 domain:marijuanaseeds.co.uk
 domain:marinetraffic.com
 domain:mariso.net
@@ -9563,6 +9700,7 @@ domain:materinstvo.ru
 domain:materioteca.it
 domain:mathgym.com.au
 domain:mathiasdeclercq.mailingplatform.be
+domain:mathoutlet.xyz
 domain:matilda-macelroy.com
 domain:matomete.net
 domain:matomex.com
@@ -9758,6 +9896,7 @@ domain:meohoresi.ml
 domain:meon.com.br
 domain:meragana.com
 domain:meraonkormanyzat.hu
+domain:mercanmall.xyz
 domain:merchant-navy.net
 domain:mercury-trade.ru
 domain:mere.host.sk
@@ -9794,6 +9933,7 @@ domain:methode-delavier.com
 domain:methodsmarketing.com
 domain:meticorsupplemnthsscsbik.us
 domain:metodsovet.su
+domain:meuikcr.online
 domain:mex-annushka.ru
 domain:mexicorent.com.mx
 domain:mexicosleevegastrectomy.com
@@ -9810,6 +9950,7 @@ domain:mh5.cyberlinkenews.com
 domain:mhanje.pw
 domain:mhi-systems.ru
 domain:mhp.su
+domain:mhrdmall.xyz
 domain:mhtr.be
 domain:miamibeach411.com
 domain:miaxxx.com
@@ -9886,6 +10027,7 @@ domain:minecraft-neo.ru
 domain:minecraft-rus.org
 domain:minegam.com
 domain:minet.club
+domain:minghaimuyuan.net
 domain:minharevisao.com
 domain:mini.7zap.com
 domain:miniads.ca
@@ -10146,11 +10288,13 @@ domain:mosprogulka.ru
 domain:mosputana.info
 domain:mosputana.top
 domain:mosrif.ru
+domain:mossiemckenzie.shop
 domain:mossmesi.com
 domain:most-kerch.org
 domain:most.gov.iq
 domain:mostantikor.ru
 domain:mostbeautifulmodel.com
+domain:mostbet-285.com
 domain:mostbet-original.ru
 domain:mostcool.top
 domain:mostorgnerud.ru
@@ -10235,6 +10379,7 @@ domain:msk-diplomat.com
 domain:msk-sprawka.com
 domain:msk.afora.ru
 domain:mtmtv.info
+domain:mtras.xyz
 domain:mtsguru.ru
 domain:mttwtrack.com
 domain:mturkcontent.com
@@ -10312,6 +10457,7 @@ domain:muztops.ru
 domain:mvc5sportsstore.azurewebsites.net
 domain:mvdemidov.com
 domain:mvirks.de
+domain:mvmagoods.xyz
 domain:mvpicton.co.uk
 domain:mw-scenicphotos.com
 domain:mwductwork.com
@@ -10423,6 +10569,7 @@ domain:mysurvey1com.blogspot.com
 domain:mytherealshop.com
 domain:mytokachi.jp
 domain:mytown.ie
+domain:mytraffic.shop
 domain:mytrafficcoop.com
 domain:mytrip.co.id
 domain:myvenue.in
@@ -10469,10 +10616,12 @@ domain:naniwa-search.com
 domain:nanochskazki.ru
 domain:nanos.jp
 domain:nanpuu.jp
+domain:nanwar.xyz
 domain:naobumium.info
 domain:nap.halfmoon.jp
 domain:napalm51.nut.cc
 domain:naperehresti.info
+domain:naphi.xyz
 domain:naphukete.ru
 domain:narco24.me
 domain:nardulan.com
@@ -10530,6 +10679,7 @@ domain:ndbestopportuties.xyz
 domain:ndbo.us
 domain:ndc-inc.com
 domain:ndxa.net
+domain:nebbiasale.xyz
 domain:necessarynew.co
 domain:nedirtr.com
 domain:needlearttailors.com
@@ -10584,6 +10734,7 @@ domain:new7ob.com
 domain:newadcenter.com
 domain:newagebev.com
 domain:newarmy.in.ua
+domain:newbieseoblog.online
 domain:newcamgals.com
 domain:newcouponcodeshare.com
 domain:newfilms.in
@@ -10612,6 +10763,7 @@ domain:news24.vip
 domain:news90post.com
 domain:newsarticles76.blogspot.com
 domain:newseolink.com
+domain:newsfj.net
 domain:newshawaii56.blogspot.com
 domain:newshit.org
 domain:newshurricane762.blogspot.com
@@ -10658,6 +10810,7 @@ domain:nfljerseys.online
 domain:nfljerseyscheapbiz.us
 domain:nfljerseyscheapchinabiz.com
 domain:nfljerseysforsalewholesaler.com
+domain:nfocusdriver.com
 domain:nfvsz.com
 domain:ngps1.ru
 domain:nh31.com
@@ -10666,6 +10819,7 @@ domain:nhhappenings.com
 domain:nhl09.ru
 domain:nhl17coins.exblog.jp
 domain:nhl17coinsforps3.gratisblog.biz
+domain:nhmrcsale.xyz
 domain:nhonmy.com
 domain:nhsports.cl
 domain:ni.net.tr
@@ -10679,6 +10833,7 @@ domain:nichesitemastery.com
 domain:nicholleroanna.ru
 domain:nickl-architects.com
 domain:nicola.top
+domain:nicolaonline.top
 domain:nicolepoggi.com
 domain:nicotra-gebhardt.se
 domain:nicovideo.jp
@@ -10801,6 +10956,7 @@ domain:nou-rau.uem.br
 domain:noumea.urbeez.com
 domain:noumeda.com
 domain:novalogic.com
+domain:novalskincare.net
 domain:novameden.today
 domain:novatech.vn
 domain:november-lax.com
@@ -10867,6 +11023,7 @@ domain:nuup.info
 domain:nvestalk.com
 domain:nvformula.ru
 domain:nviametall.se
+domain:nvkzsale.xyz
 domain:nvlsp.org
 domain:nvssf.com
 domain:nvwangleyuan.com
@@ -10916,6 +11073,7 @@ domain:obiavo.su
 domain:obiavo.uz
 domain:objectif-suede.com
 domain:obliquest.casa
+domain:oblismall.xyz
 domain:obnal.org
 domain:obnallpro.cc
 domain:observatoriocalidaduniversitaria.org
@@ -11042,6 +11200,7 @@ domain:oldpcgaming.net
 domain:oldpornwhore.com
 domain:oldrss.com
 domain:oldwww.just.edu.jo
+domain:oledonline.xyz
 domain:olgacvetmet.com
 domain:olgapyrova.ru
 domain:olimp-lyskovo.ru
@@ -11368,6 +11527,7 @@ domain:panchayat.co.in
 domain:panchro.co.uk
 domain:panchro.xyz
 domain:pandarastore.top
+domain:pandoshop.xyz
 domain:pandroid.co
 domain:pangelvil.com
 domain:panicatack.com
@@ -11390,6 +11550,7 @@ domain:parajumpersstore.online
 domain:paramountcommunication.com
 domain:paramountmarble.co.uk
 domain:paranormal-news.ru
+domain:parcsmalls.xyz
 domain:parentcompanion.org
 domain:parents-teachers.com
 domain:paretto.ru
@@ -11451,6 +11612,7 @@ domain:pathery.com
 domain:pathogenuk.com
 domain:pathwhelp.org
 domain:patol01.pw
+domain:patonsale.xyz
 domain:patrick-bateman.com
 domain:patterntrader-en.com
 domain:pattersonsweb.com
@@ -11511,6 +11673,7 @@ domain:peakdemand.com.au
 domain:pearlisland.ru
 domain:pecadoreal.com
 domain:pechikamini.ru
+domain:pecmastore.xyz
 domain:peekyou.com
 domain:peer-faq.de
 domain:peeta.info
@@ -12188,6 +12351,7 @@ domain:property.hk
 domain:proposal-engine.com
 domain:propranolol40mg.blogspot.com
 domain:proprostatit.com
+domain:proquoshop.xyz
 domain:proseolinks.com
 domain:proseolinksdirectory.com
 domain:prosersm.com
@@ -12230,6 +12394,7 @@ domain:psa48.ru
 domain:pshare.biz
 domain:psi.ir
 domain:psingenieure.de
+domain:psiosale.xyz
 domain:psismartsys.com
 domain:pskcijdc.bloger.index.hr
 domain:psn-card.ru
@@ -12354,6 +12519,7 @@ domain:qor360.com
 domain:qpypcx.com
 domain:qqfuzhi.com
 domain:qsomap.org
+domain:qtrstar.xyz
 domain:quality-traffic.com
 domain:qualitymarketzone.com
 domain:qualityprimed.co
@@ -12397,6 +12563,7 @@ domain:qwertty.net
 domain:qwertyfix.net
 domain:qwesa.ru
 domain:qwiuerw.cam
+domain:qxnr.net
 domain:qypvwcom.blogspot.com
 domain:qztmsg.com
 domain:r-control.ru
@@ -12484,6 +12651,7 @@ domain:rapetaboo.com
 domain:rapevideosmovies.com
 domain:raphustle.com
 domain:rapidgator-porn.ga
+domain:rapidhits.net
 domain:rapidmessage.xyz
 domain:rapidokbrain.com
 domain:rapidsites.pro
@@ -12514,6 +12682,7 @@ domain:razyboard.com
 domain:rb-str.ru
 domain:rcb101.ru
 domain:rcpmda.ikan1080.xyz
+domain:rczhan.com
 domain:rd.am
 domain:rdt.trom.tf
 domain:re-job.jp
@@ -12611,6 +12780,7 @@ domain:refererx.com
 domain:referless.com
 domain:referralsheet.com
 domain:reformascastellanos.es
+domain:refpawro.xyz
 domain:refresh.pw
 domain:refreshthing.com
 domain:refudiatethissarah.info
@@ -12716,6 +12886,7 @@ domain:resell-seo-services.com
 domain:resellerclub.com
 domain:reservations-page.com
 domain:reshaping.ru
+domain:residualforlife.com
 domain:resimli-yemek.com
 domain:resistance.today
 domain:resler.de
@@ -12799,6 +12970,7 @@ domain:riders.ro
 domain:rideshareindustrynews.com
 domain:ridhima.pw
 domain:rididide.tk
+domain:riedismall.xyz
 domain:rienterprises.com
 domain:rietisvi.co
 domain:riggisberg.ch
@@ -12833,6 +13005,7 @@ domain:riverconditions.environment-agency.gov.uk
 domain:riverturn.com
 domain:rixpix.ru
 domain:rjpartners.nl
+domain:rkmbonline.xyz
 domain:rmaconsultants.com.sg
 domain:rmig.com
 domain:rmkdirect.com
@@ -13131,6 +13304,7 @@ domain:sanyuprojects.com
 domain:sapaship.ru
 domain:sape.top
 domain:sarafangel.ru
+domain:sarahmilne.top
 domain:saratov.xrus.org
 domain:sardinie.us
 domain:sarf3omlat.com
@@ -13151,6 +13325,7 @@ domain:satilmis.net
 domain:satomitsu.com
 domain:satoristudio.net
 domain:satu-mare.eu
+domain:saudegoods.xyz
 domain:saugatuck.com
 domain:saulpinela.com
 domain:sauna-v-ufe.ru
@@ -13256,6 +13431,7 @@ domain:schuifdeurentotaal.nl
 domain:schulz-giesdorf.de
 domain:schwarzdorn.de
 domain:schwarzreport.org
+domain:sciedsale.xyz
 domain:scientificsrv.com
 domain:scitech.xiaoyou.org
 domain:scitum.com.mx
@@ -13383,6 +13559,7 @@ domain:seexxxnow.net
 domain:segol.tv
 domain:sei80.com
 domain:seinterface.com
+domain:seisasale.xyz
 domain:seksotur.ru
 domain:seksvideoonlain.com
 domain:sel-hoz.com
@@ -13396,6 +13573,7 @@ domain:sell-fb-group-here.com
 domain:sellere.de
 domain:selmer.no
 domain:semalt.com
+domain:semalt.net
 domain:semalt.semalt.com
 domain:semaltmedia.com
 domain:seminarygeorgia59.ga
@@ -13795,6 +13973,7 @@ domain:seozoom.it
 domain:serafinowines.com.au
 domain:seraj.org.kw
 domain:serdcenebolit.com
+domain:serenamall.xyz
 domain:serendeputy.com
 domain:sergiorossistore.online
 domain:sergiubaluta.com
@@ -13805,6 +13984,7 @@ domain:sermemole.com
 domain:serpstat.com
 domain:serptehnika.ru
 domain:serreaux-dessus.ch
+domain:servemlixo.xyz
 domain:server.tongbu.com
 domain:servethis.com
 domain:service-core.ru
@@ -13925,6 +14105,7 @@ domain:shakhtar-doneck.ru
 domain:shakushouei.com
 domain:shama-rc.net
 domain:shamayita-math.org
+domain:shamcisale.xyz
 domain:shamelesstraveler.com
 domain:shanscasino1.ru
 domain:sharabco.com
@@ -13987,6 +14168,7 @@ domain:ship.sh
 domain:shiply.iljmp.com
 domain:shippingchina.com
 domain:shirtforamazone.com
+domain:shisenshop.xyz
 domain:shisha-swag.de
 domain:shit-around.com
 domain:shitengi-resort.com
@@ -14055,6 +14237,7 @@ domain:shqiponjashqiptare.com
 domain:shtaketniki.kz
 domain:shtaketniki.ru
 domain:shtora66.ru
+domain:shtormmall.xyz
 domain:shtrih-m.ru
 domain:shubhangi.pw
 domain:shulepov.ru
@@ -14104,6 +14287,7 @@ domain:signoredom.com
 domain:signspublishing.it
 domain:signx.info
 domain:siha.de
+domain:sihugoods.xyz
 domain:sikisgifler.fun
 domain:sildenafil-tadalafil.info
 domain:sildenafilcitratemed.com
@@ -14145,6 +14329,7 @@ domain:sinel.info
 domain:sinestesia.host.sk
 domain:sinfoniagroup.com
 domain:singhui.com
+domain:singularwebs.net
 domain:sinhoaalumni.org
 domain:sinhronperevod.ru
 domain:sinpad.indeci.gob.pe
@@ -14152,6 +14337,8 @@ domain:sint-flut.de
 domain:sintesi.provincia.mantova.it
 domain:siongetadsincome.info
 domain:sipsap.com
+domain:sirhoutlet.xyz
+domain:siritshop.xyz
 domain:sirpornogratis.xxx
 domain:sisatma.com
 domain:sisi-go.ru
@@ -14216,6 +14403,7 @@ domain:sixcooler.de
 domain:sixty.co.in
 domain:sizeplus.work
 domain:sjeffect.com
+domain:sjmsw.net
 domain:sjoerdlangkemper.nl
 domain:sjrrtm.opennrm.org
 domain:sk.golden-praga.ru
@@ -14257,6 +14445,7 @@ domain:skyway.ru
 domain:skyway24.ru
 domain:sl-360.com
 domain:sladkoevideo.com
+domain:slashpet.com
 domain:slashwrestling.com
 domain:slavenibas.lv
 domain:slavia.info
@@ -14280,6 +14469,7 @@ domain:slipknot1.info
 domain:slkrm.ru
 domain:slomm.ru
 domain:slonechka.ru
+domain:sloopyjoes.com.top
 domain:slopeofhope.com
 domain:slotron.com
 domain:slow-website.xyz
@@ -14338,6 +14528,7 @@ domain:smt4.ru
 domain:smtp-a.critsend.com
 domain:smuggletheyoyo.com
 domain:smutgranny.com
+domain:smzt.shop
 domain:snabs.kz
 domain:snaiper-bg.net
 domain:snap5.com
@@ -14411,6 +14602,7 @@ domain:social.uit.be
 domain:socialbookmarksubmission.org
 domain:socialbutton.xyz
 domain:socialbuttons.xyz
+domain:socialine.net
 domain:socialleadwizard.net
 domain:socialmadesimple.com
 domain:socialmediasuggest.com
@@ -14628,6 +14820,7 @@ domain:springfieldcards.mtpsoftware.com
 domain:sprinter-forum.de
 domain:sprttrack.com
 domain:sps-shop.com
+domain:spscmall.xyz
 domain:sptslmtrafms.com
 domain:spua.org
 domain:spuemonti.net
@@ -14710,11 +14903,13 @@ domain:startershub.org
 domain:startgames.ws
 domain:startisrael.co.il
 domain:startlist.club
+domain:startraffic.online
 domain:startufa.ru
 domain:startup.ovhcloud.com
 domain:startwp.org
 domain:starwars.wikia.com
 domain:stat.lviv.ua
+domain:statashop.xyz
 domain:staten.ru
 domain:stathat.com
 domain:static.175.165.251.148.clients.your-server.de
@@ -14886,6 +15081,7 @@ domain:success-seo.com
 domain:suche.nibis.de
 domain:suche.t-online.de
 domain:suchenindeutschland.com
+domain:suckoutlet.xyz
 domain:sudachitravel.com
 domain:sudexpert66.ru
 domain:sudoku.4thewww.com
@@ -14950,6 +15146,7 @@ domain:superslotz-casino.site
 domain:superslotz-cazino.site
 domain:superstarfloraluk.com
 domain:superstats.com
+domain:supertraffic.xyz
 domain:supertramp.com
 domain:supervesti.ru
 domain:supervised-visitations-by-retired-law-enforcement.com
@@ -15065,6 +15262,7 @@ domain:t10.org
 domain:t3chtonic.com
 domain:ta-mag.net
 domain:taaaak.com
+domain:taartstore.xyz
 domain:tabakur77.com
 domain:tabardskin.com
 domain:tabletkinaodchudzanie.com.pl
@@ -15078,6 +15276,7 @@ domain:tackletarts.co
 domain:tadashi-web.com
 domain:tag-china.com
 domain:tagil.zrus.org
+domain:tagmeanvice.live
 domain:taihouse.ru
 domain:taijifitacademy.com
 domain:taikangame.com
@@ -15145,8 +15344,11 @@ domain:taximytishi.ru
 domain:taytrangranggiare.net
 domain:tc-rw-kraichtal.de
 domain:tc.visokio.com
+domain:tccp.xyz
 domain:tcenavoprosa.ru
 domain:tcmdemo.com
+domain:tcsinksale.xyz
+domain:tcyh.net
 domain:td-33.ru
 domain:td-abs.ru
 domain:td-l-market.ru
@@ -15250,6 +15452,7 @@ domain:teplohod-gnezdo.ru
 domain:teplokomplex.ru
 domain:teplolidoma.ru
 domain:teplosetkorolev.ru
+domain:terapist.xyz
 domain:teraz.sk
 domain:teresablog.top
 domain:terminatrobraintiinitusvs.us
@@ -15350,6 +15553,7 @@ domain:thegioiseo.com
 domain:thegioixekhach.com
 domain:thegoldpeach.com
 domain:thegolfclub.info
+domain:thegreensociety.net
 domain:theguardlan.com
 domain:theharbour.org.nz
 domain:thehempcloud.com
@@ -15461,6 +15665,7 @@ domain:timmersit.nl
 domain:timmy.by
 domain:tinhte.vn
 domain:tioswifunun.cf
+domain:tip8.co
 domain:tipexpos.com
 domain:titan-ads.life
 domain:titan-cloud.life
@@ -15571,6 +15776,7 @@ domain:toloka.hurtom.com
 domain:tomatis.gospartner.com
 domain:tomck.com
 domain:tominosuke.jp
+domain:tommysautomotivecare.com
 domain:tomsseolink.com
 domain:ton.ch
 domain:tonerbox.kz
@@ -15625,6 +15831,7 @@ domain:top100.spankingzone.de
 domain:top10registrycleaners.com
 domain:top250movies.ru
 domain:top50-solar.de
+domain:top8.co
 domain:topads.men
 domain:topanasex.com
 domain:topappspro.com
@@ -15640,6 +15847,7 @@ domain:topdog.lt
 domain:topdoma.in
 domain:topdomains.pw
 domain:topdownloads.ru
+domain:topgurudeals.com
 domain:topiqs.online
 domain:topkarkas.com
 domain:topkaya.av.tr
@@ -15704,11 +15912,13 @@ domain:totaler-funk-schwachsinn.de
 domain:totallynsfw.com
 domain:totallyteenie.com
 domain:totanded.top
+domain:totppgoods.xyz
 domain:totu.info
 domain:totu.us
 domain:touchmods.fr
 domain:tour-line.net
 domain:tour.catalinacruz.com
+domain:tourburlington.com
 domain:tourcroatia.co.uk
 domain:tourismchiangrai.com
 domain:tourisme-conques.fr
@@ -15768,6 +15978,7 @@ domain:tractec.grouphes.com
 domain:tracxn.com
 domain:tracymbrunet.com
 domain:trade-schools-directory.com
+domain:trade365.org
 domain:tradedeals.biz
 domain:traderzplanet.in
 domain:tradgardspartner.se
@@ -15782,6 +15993,8 @@ domain:traffic2cash.org
 domain:traffic2cash.xyz
 domain:traffic2money.com
 domain:trafficbot.life
+domain:trafficbot4free.xyz
+domain:trafficdrive.club
 domain:trafficfactory.biz
 domain:trafficgenius.xyz
 domain:trafficjunky.com
@@ -15794,6 +16007,7 @@ domain:trafficnetzwerk.de
 domain:trafficreceiver.club
 domain:trafficseolinks.ru
 domain:trafficstars.com
+domain:trafficstudio.club
 domain:traffictomoney.com
 domain:traffictrade.life
 domain:traffique.net
@@ -15839,6 +16053,7 @@ domain:travelinfos.com
 domain:travelstyleandtechnology.com
 domain:travelsystem.de
 domain:traveltags.com
+domain:travgoods.xyz
 domain:traxdom.ru
 domain:trayangshop.com
 domain:treasuredays.com
@@ -15922,6 +16137,7 @@ domain:tswzjs.com
 domain:tsyndicate.com
 domain:tt-ipd.info
 domain:ttc-wirges.de
+domain:ttechno.net
 domain:ttrraacckkrr.com
 domain:ttsq.fr
 domain:tuaf.edu.vn
@@ -15935,6 +16151,7 @@ domain:tubo360.com
 domain:tuckermktg.com
 domain:tuckpointingmasonrysystems.com
 domain:tudonoticia.org
+domain:tudusale.xyz
 domain:tufactura091.xyz
 domain:tula.howotorg.ru
 domain:tula.mdverey.ru
@@ -16059,6 +16276,7 @@ domain:ua.all.biz
 domain:ua.tc
 domain:uac.net.au
 domain:uadxeyp.xyz
+domain:uaecdsale.xyz
 domain:uamtrk.com
 domain:uanews.org.ua
 domain:uasb.ru
@@ -16066,12 +16284,15 @@ domain:uberpray.com
 domain:ubezpieczeni.com.pl
 domain:ublaze.ru
 domain:ucanfly.ru
+domain:ucban.xyz
 domain:uchebavchehii.ru
 domain:uchetunet.su
 domain:uchil.net
 domain:ucoz.ru
 domain:ucrca.org
+domain:ucsfstore.xyz
 domain:ucsol.ru
+domain:uctraffic.com
 domain:uda-web.de
 domain:udav.net
 domain:udayavani.com
@@ -16111,6 +16332,7 @@ domain:ukrtvory.in.ua
 domain:ukrup.com
 domain:uksaabs.co.uk
 domain:uksexforum.co.uk
+domain:ukstmalls.xyz
 domain:uktrademarkregistration.co.uk
 domain:ul-potolki.ru
 domain:uleamradio.uleam.edu.ec
@@ -16159,6 +16381,7 @@ domain:unimodemhalfduplefw.pen.io
 domain:union.591.com.tw
 domain:union.diexun.com
 domain:unionmarkt.de
+domain:uniqgen.net
 domain:uniquesexygirls.net
 domain:unisexjewelry.org
 domain:unitexindia.com
@@ -16186,6 +16409,7 @@ domain:uogonline.com
 domain:uogorod.ru
 domain:up.krakow.pl
 domain:up2date4u.co.in
+domain:upcronline.xyz
 domain:updatearubashot.com
 domain:updatearubashot.net
 domain:updatearubashot.org
@@ -16209,6 +16433,8 @@ domain:uptimechecker.com
 domain:upupa.net
 domain:upwardaz.org
 domain:ural-buldozer.ru
+domain:urbanblog.shop
+domain:urbanchr.online
 domain:urbanfantasy.horror.it
 domain:urbansherpatravel.com
 domain:urbansketchers-brasil.blogspot.com
@@ -16241,6 +16467,7 @@ domain:urlopener.blogspot.com.au
 domain:urlopener.com
 domain:urlopener.pw
 domain:urls.tsa.2mes4.com
+domain:urlumbrella.com
 domain:urlxray.com
 domain:uroffer.link
 domain:uroki.net
@@ -16268,6 +16495,7 @@ domain:ussearche.cf
 domain:usswrite.com
 domain:ustion.ru
 domain:ut2.ru
+domain:uterkysale.xyz
 domain:utiblog.fr
 domain:utltrn.com
 domain:utmagazine.ru
@@ -16275,6 +16503,7 @@ domain:utoronto.ca
 domain:utrolive.ru
 domain:uts.edu.co
 domain:uucyc.mobi
+domain:uusmsale.xyz
 domain:uvbnb.ru
 domain:uvn.su
 domain:uvozdeckych.info
@@ -16490,6 +16719,7 @@ domain:videoz.co.in
 domain:videtubs.pl
 domain:vids18.site
 domain:vidzooomaffordablevideos.com
+domain:vidzwap.xyz
 domain:viecngay.vn
 domain:viel.su
 domain:vielporno.net
@@ -16654,6 +16884,7 @@ domain:vrazbor59.ru
 domain:vremya.eu
 domain:vriel.batcave.net
 domain:vrnelectro.ru
+domain:vrnhnmall.xyz
 domain:vrotike.ru
 domain:vroze.com
 domain:vsdelke.ru
@@ -16702,6 +16933,7 @@ domain:vzlom-na-zakaz.com
 domain:vzlomfb.com
 domain:vzlomsn.org
 domain:vzlomtw.com
+domain:vzobe.com
 domain:vzubah.com
 domain:vzube.com
 domain:vzubkah.com
@@ -16742,6 +16974,7 @@ domain:wallpapers-best.com
 domain:wallpapersdesk.info
 domain:wallpapersist.com
 domain:wallpaperstock.net
+domain:wallstore.xyz
 domain:walpaperlist.com
 domain:waltrop.de
 domain:walwaynecourt.wilts.sch.uk
@@ -16769,6 +17002,7 @@ domain:warningzscaler.heraeus.com
 domain:warpradio.com
 domain:warpwire.com
 domain:wartank.ru
+domain:wasabisale.xyz
 domain:waseem.nl
 domain:washburnvalley.org
 domain:washim.pw
@@ -16797,6 +17031,7 @@ domain:wayi.com.tw
 domain:wayranks.online
 domain:waysbetter.cn
 domain:wayseodirectory.com
+domain:wbjm.net
 domain:wbmonitor.bibb.de
 domain:wbsrch.com
 domain:wcb.su
@@ -17127,6 +17362,7 @@ domain:withstandingheartwarming.com
 domain:wizmyart.com
 domain:wjgony.com
 domain:wjmfg.com
+domain:wjxmenye.com
 domain:wko.madison.at
 domain:wladimirpayen.com
 domain:wleuaprpxuvr.ga
@@ -17213,6 +17449,7 @@ domain:wpnetwork.eu
 domain:wpnull.org
 domain:wpsecurity.website
 domain:wpthemedetector.co.uk
+domain:wptraffic.xyz
 domain:wpubysmartsimple.webpowerup.com
 domain:wqketang.com
 domain:wrasb.gov.tw
@@ -17336,6 +17573,7 @@ domain:xlovecam.com
 domain:xmc.pl
 domain:xmladserver.com
 domain:xmlinde.com
+domain:xmnb.net
 domain:xmronta.com
 domain:xmxdfpr.com
 domain:xmyzl.com
@@ -17484,6 +17722,9 @@ domain:xtenzio2.com
 domain:xtg-cs-gaming.de
 domain:xtraffic.plus
 domain:xtrafficplus.com
+domain:xtrafficplus.online
+domain:xtrafficplus.shop
+domain:xtrafficplus.xyz
 domain:xtremeeagles.net
 domain:xtube.com
 domain:xtubeporno.net
@@ -17645,6 +17886,7 @@ domain:yourseolinks.com
 domain:yourserverisdown.com
 domain:yoursite.com
 domain:yourtemplatefinder.com
+domain:yourtraffic.club
 domain:yousense.info
 domain:youthink.com
 domain:youthreaders.com
@@ -17658,6 +17900,7 @@ domain:yp1.yippee.ne.jp
 domain:ypassociation.org
 domain:yplf.com
 domain:ypmuseum.ru
+domain:yqpc.net
 domain:yszx360.com
 domain:ytmnd.com
 domain:yu-kei.com
@@ -17777,6 +18020,7 @@ domain:zeta.ecommzone.com
 domain:zetgie.com.pl
 domain:zetmaster.ru
 domain:zeus-net.info
+domain:zexhgoods.xyz
 domain:zh-hk.guitarians.com
 domain:zhacker.net
 domain:zhcsapp.net
